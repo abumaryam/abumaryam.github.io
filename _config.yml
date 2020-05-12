@@ -7,7 +7,7 @@ theme: just-the-docs
 gems:
   - jekyll-mentions
 
-  permalink: pretty
+permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
 
 # Set a path/url to a logo that will be displayed instead of the title
